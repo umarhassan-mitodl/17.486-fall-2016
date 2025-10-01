@@ -1,0 +1,30 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 7c3bbdce-11e9-49ad-131e-c0ad61613ec6
+  name: Syllabus and Calendar
+  pageRef: /pages/syllabus-and-calendar
+  weight: 10
+- identifier: ffd1d94a-c0d0-020f-c3aa-e23bc1f99394
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 074d71ee-9c51-65c2-03ce-d5b36dd08043
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 23f3afd2-49bb-45cc-68d4-11487446c316
+  name: "Book Pr\xE9cis"
+  pageRef: /pages/assignments/book-precis
+  parent: 074d71ee-9c51-65c2-03ce-d5b36dd08043
+  weight: 40
+- identifier: b4206ed7-2bb0-5dd0-16f1-1fc3330268b1
+  name: Scenario Paper
+  pageRef: /pages/assignments/scenario-paper
+  parent: 074d71ee-9c51-65c2-03ce-d5b36dd08043
+  weight: 50
+- identifier: 2cf351ab-c5fb-9d25-76a2-5c118623674b
+  name: Briefing Paper and Oral Presentation
+  pageRef: /pages/assignments/briefing-paper-and-oral-presentation
+  parent: 074d71ee-9c51-65c2-03ce-d5b36dd08043
+  weight: 60
