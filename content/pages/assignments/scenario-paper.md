@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes information on the scenario paper assignment.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +23,7 @@ Be sure to assess the international, domestic political, national security, econ
 
 These papers should not exceed 10 pages in length. To help your scenario building, you might read:
 
-Tetlock, Philip E., and Aaron Belkin. "Counterfactual Thought Experiments in World Politics: Logical, Methodological, and Psychological Perspectives." Chapter 1 in _Counterfactual Thought Experiments in World Politics_. Princeton University Press, 1996. ISBN: 9780691027913. \[Preview with [Google Books](http://books.google.com/books?id=UyMXon0JmBsC&pg=PA3=onepage)\]
+Tetlock, Philip E., and Aaron Belkin. "Counterfactual Thought Experiments in World Politics: Logical, Methodological, and Psychological Perspectives." Chapter 1 in _Counterfactual Thought Experiments in World Politics_. Princeton University Press, 1996. ISBN: 9780691027913. \[Preview with {{% resource_link "1ded33c7-ad4d-44b6-b658-f24fd249aaaa" "Google Books" %}}\]
 
 Think outside the box!!!
 

@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: "This section includes information on the book pr\xE9cis assignment."
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

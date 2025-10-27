@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains the course syllabus and course calendar.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus and Calendar
@@ -44,7 +42,7 @@ Required Text
 
 Pyle, Kenneth B. _Japan Rising: The Resurgence of Japanese Power and Purpose_. Public Affairs, 2008. ISBN: 9781586485672.
 
-Samuels, Richard J. _Securing Japan: Tokyo's Grand Strategy and the Future of East Asia_. Cornell University Press, 2008. ISBN: 9780801474903. \[Preview with [Google Books](http://books.google.com/books?id=whqvYdDz3D4C&pg=PAfrontcover)\]
+Samuels, Richard J. _Securing Japan: Tokyo's Grand Strategy and the Future of East Asia_. Cornell University Press, 2008. ISBN: 9780801474903. \[Preview with {{% resource_link "47fdaae2-01d4-4431-9a14-6814c6d42085" "Google Books" %}}\]
 
 Smith, Sheila A. _Intimate Rivals: Japanese Domestic Politics and a Rising China_. Columbia University Press, 2016. ISBN: 9780231167895.
 
